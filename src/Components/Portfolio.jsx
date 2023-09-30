@@ -1,23 +1,8 @@
-/**
- * Portfolio component
- *
- * Highlights some of  your creations. These can be designs, websites,
- * open source contributions, articles you've written and more.
- * This is a great area for you to to continually add to and refine
- * as you continue to learn and create.
- */
+
 
 import React from "react";
 
-/**
- * Desk image
- *
- * Below is a sample desk image. Feel free to update this to an image of your choice,
- * updating below imageAltText to string that represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a photo you
- * freely use on your site.
- */
+
 import image from "../images/white-flowers-7946058_1920.jpg";
 
 const imageAltText = "White flowers";
@@ -44,8 +29,7 @@ const projectList = [
   {
     title: "Python Learning",
     description:
-      "Python is a broadly accepted, high-level, general-purpose programming language. Python is one of the smartest programming languages as it demands very few lines of code. The python learning challenge enables you to explore and learn python
-      ",
+      "Python is a broadly accepted, high-level, general-purpose programming language. Python is one of the smartest programming languages as it demands very few lines of code. The python learning challenge enables you to explore and learn python",
     url: "https://learn.microsoft.com/training/challenges?id=3963944f-0c0b-432b-99b0-2e7aaf1ff7e1&wt.mc_id=studentamb_275488",
   },
   {
