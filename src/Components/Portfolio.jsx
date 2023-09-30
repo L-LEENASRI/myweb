@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/white-flowers-7946058_1920.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "White flowers";
 
 /**
  * Project list
@@ -43,10 +43,11 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Python Learning",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Python is a broadly accepted, high-level, general-purpose programming language. Python is one of the smartest programming languages as it demands very few lines of code. The python learning challenge enables you to explore and learn python
+      ",
+    url: "https://learn.microsoft.com/training/challenges?id=3963944f-0c0b-432b-99b0-2e7aaf1ff7e1&wt.mc_id=studentamb_275488",
   },
   {
     title: "GitHub Codespaces and github.dev",
